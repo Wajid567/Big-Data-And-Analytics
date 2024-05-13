@@ -15,12 +15,12 @@ To run this project, you will need Python and Apache Spark installed. Follow the
 3. Clone the repository:
    git clone https://github.com/your-github-username/tweets-analysis-spark.git
    
-   Navigate to the project directory:
+4. Navigate to the project directory:
 cd tweets-analysis-spark
 
-5.Install required Python libraries:
+5. Install required Python libraries:
 pip install -r requirements.txt
 
 Usage
 Run the Jupyter notebook to start the analysis:
-jupyter notebook 'tweets analysis in Spark  Final.ipynb'
+Jupiter notebook 'tweets analysis in Spark  Final.ipynb'
